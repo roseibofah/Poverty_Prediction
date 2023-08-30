@@ -4,5 +4,6 @@ import os
 import pickle
 import json
 from utils import transform_data
+import matplotlib
 from matplotlib import pyplot as plt
 import seaborn as sns
