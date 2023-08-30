@@ -1,0 +1,235 @@
+sex,age_years,marriage,spouse_in_household,education,employ_status,father_education,father_work,mother_education,mother_work,household_size,bank_account,rent_Income,remittance,Electricity_expense,phone_expense,insurace_policy,disability,ownership_type,location,region,prediction
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Never married,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,Don?t know,Homemaker,None,Sales,14.5,No,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,Don?t know,Homemaker,None,Sales,14.5,No,6563.31,588.63,29.1,14.05,Yes,No,Renting,Urban Coastal,1. Western,1
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Homemaker,None,Sales,14.5,No,6563.31,588.63,29.1,14.05,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,31,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,31,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,31,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,31,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,38.8,0.0,Yes,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,35,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,35,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,35,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Clerical,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Clerical,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Clerical,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,74,Divorced,No,Tertiary,5. Non-agric self-employed with employees,Teacher Training/Agric/ Nursing Cert,Clerical,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,1875.23,735.79,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,1875.23,735.79,0.0,0.0,Yes,No,Renting,Urban Coastal,1. Western,1
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,1875.23,735.79,155.18,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,1875.23,735.79,155.18,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,1875.23,735.79,155.18,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,3.17,Yes,1875.23,735.79,155.18,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,3.17,Yes,1875.23,735.79,155.18,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,13. Not_in_labour_force,None,Agric/Anim Husbandry etc,None,Sales,3.17,Yes,1875.23,735.79,155.18,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.09,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,69,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Male,87,Married,Yes,Secondary,13. Not_in_labour_force,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,87,Married,Yes,Secondary,13. Not_in_labour_force,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,87,Married,Yes,Secondary,13. Not_in_labour_force,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Secondary,13. Not_in_labour_force,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,12802.68,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,3090.3,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,5739.13,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,5739.13,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,5739.13,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,2354.52,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,588.63,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,2060.2,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,882.94,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,Middle,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,Basic,9. Agric self-employed without employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Secondary,9. Agric self-employed without employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,9. Agric self-employed without employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,Basic,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,0
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Male,47,Married,Yes,None,5. Non-agric self-employed with employees,None,Homemaker,None,Workers Not Elsewhere Classified,25.11,No,0.0,0.0,0.0,0.0,No,Yes,Perching,Urban Coastal,1. Western,1
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,882.94,0.0,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,0.0,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Basic,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,0.0,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,0.0,0.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,No,0.0,0.0,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,21.86,No,0.0,0.0,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,21.86,No,0.0,0.0,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,21.86,No,0.0,0.0,0.0,0.0,No,No,Rent-free,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,No,Rent-free,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,No,Rent-free,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,Yes,Rent-free,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,Yes,Rent-free,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,2008.7,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,24.75,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,No,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,8.22,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,140173.64,22000.0,1450.0,2100.0,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,Secondary,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,0.0,14.05,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,14.5,Yes,0.0,0.0,0.0,14.05,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,19.87,Yes,0.0,0.0,0.0,14.05,Yes,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,19.87,No,0.0,0.0,0.0,14.05,No,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,19.87,No,0.0,0.0,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,19.87,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,56,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,19.87,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,0
+Female,56,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,19.87,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,1030.1,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,0
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,441.47,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,735.79,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,None,9. Agric self-employed without employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,Basic,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Rural Coastal,1. Western,1
+Female,48,Divorced,No,Basic,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,48,Divorced,No,None,5. Non-agric self-employed with employees,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,1
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,1
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,1
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Urban Coastal,1. Western,1
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,No,Renting,Urban Coastal,1. Western,0
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,No,Renting,Accra(GAMA) ,1. Western,0
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,No,Renting,Accra(GAMA) ,3. Greater Accra,0
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Accra(GAMA) ,3. Greater Accra,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Accra(GAMA) ,3. Greater Accra,0
+Female,48,Divorced,No,Secondary,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Accra(GAMA) ,3. Greater Accra,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,882.94,0.0,0.0,No,Yes,Renting,Accra(GAMA) ,3. Greater Accra,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,0.0,0.0,0.0,No,Yes,Renting,Accra(GAMA) ,3. Greater Accra,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,1177.26,0.0,0.0,No,Yes,Renting,Urban Savannah,10. Upper West,1
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,0.0,1177.26,0.0,0.0,No,Yes,Owning,Urban Savannah,10. Upper West,1
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,28128.49,1177.26,0.0,0.0,No,Yes,Owning,Urban Savannah,10. Upper West,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,28128.49,1177.26,0.0,0.0,No,Yes,Owning,Urban Savannah,10. Upper West,0
+Female,48,Divorced,No,None,12. Uemployed,None,Agric/Anim Husbandry etc,None,Sales,12.47,No,28128.49,1177.26,0.0,0.0,No,Yes,Owning,Urban Savannah,10. Upper West,0
