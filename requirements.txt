@@ -6,3 +6,11 @@ pandas==1.5.3
 seaborn==0.12.2
 streamlit==1.25.0
 
+import streamlit as st
+import pandas as pd
+import os
+import pickle
+import json
+from utils import transform_data
+#from matplotlib import pyplot as plt
+import seaborn as sns
