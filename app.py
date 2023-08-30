@@ -5,7 +5,7 @@ import os
 import pickle
 import json
 from utils import transform_data
-#from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt
 import seaborn as sns
 
 # Set title and write output
