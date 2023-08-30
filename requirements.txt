@@ -1,9 +1,8 @@
-import streamlit as st
-import pandas as pd
-import os
-import pickle
-import json
-from utils import transform_data
-pip install matplotlib
-from matplotlib import pyplot as plt
-import seaborn as sns
+matplotlib==3.7.0
+numpy==1.25.2
+numpy==1.23.5
+pandas==2.0.3
+pandas==1.5.3
+seaborn==0.12.2
+streamlit==1.25.0
+
